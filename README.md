@@ -2,7 +2,7 @@
 - 👀 I’m interested in python, bots.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate everything.
-- 📫 How to reach me telegram @castanedafan ;)
+- 📫 How to reach me: telegram @castanedafan ;)
 
 <!---
 Rapira2388/Rapira2388 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
