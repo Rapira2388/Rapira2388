@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rapira2388 (Felix).
-- 👀 I’m interested in python, bots.
+- 👀 I’m interested in python (Django) and AI bots.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate everything.
 - 📫 How to reach me: telegram @castanedafan ;)
